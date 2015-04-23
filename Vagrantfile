@@ -41,7 +41,7 @@ php_version           = "5.6"    # Options: 5.5 | 5.6
 ruby_version          = "latest" # Choose what ruby version should be installed (will also be the default version)
 ruby_gems             = [        # List any Ruby Gems that you want to install
   #"jekyll",
-  "sass",
+  #"sass",
   #"compass",
 ]
 
